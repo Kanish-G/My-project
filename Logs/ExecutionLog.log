@@ -1,0 +1,22 @@
+2025-04-22 10:37:45,656 - CoverFox -INFO - Welcome to CoverFox Testing
+2025-04-22 10:37:53,699 - CoverFox -INFO - Launching Browser
+2025-04-22 10:37:54,462 - CoverFox -INFO - Clicking on Gender
+2025-04-22 10:37:55,101 - CoverFox -INFO - Clicking on next button health plan page
+2025-04-22 10:37:57,460 - CoverFox -INFO - Handle age drop down
+2025-04-22 10:37:57,639 - CoverFox -INFO - Clicking on next button of member details page
+2025-04-22 10:37:58,207 - CoverFox -INFO - Enter Pincode: 
+2025-04-22 10:37:58,454 - CoverFox -INFO - Enter Mobile number: 
+2025-04-22 10:37:58,583 - CoverFox -INFO - Clicking on continue button
+2025-04-22 10:38:02,707 - CoverFox -INFO - Validating CoverFoxPlan
+2025-04-22 10:38:02,964 - CoverFox -INFO - Closing Browser
+2025-04-22 10:41:28,286 - CoverFox -INFO - Welcome to CoverFox Testing
+2025-04-22 10:41:42,867 - CoverFox -INFO - Launching Browser
+2025-04-22 10:41:44,231 - CoverFox -INFO - Clicking on Gender
+2025-04-22 10:41:44,953 - CoverFox -INFO - Clicking on next button health plan page
+2025-04-22 10:41:47,543 - CoverFox -INFO - Handle age drop down
+2025-04-22 10:41:47,657 - CoverFox -INFO - Clicking on next button of member details page
+2025-04-22 10:41:48,268 - CoverFox -INFO - Enter Pincode: 
+2025-04-22 10:41:48,531 - CoverFox -INFO - Enter Mobile number: 
+2025-04-22 10:41:48,649 - CoverFox -INFO - Clicking on continue button
+2025-04-22 10:41:52,785 - CoverFox -INFO - Validating CoverFoxPlan
+2025-04-22 10:41:53,077 - CoverFox -INFO - Closing Browser
