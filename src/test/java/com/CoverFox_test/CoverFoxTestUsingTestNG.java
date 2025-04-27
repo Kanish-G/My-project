@@ -85,7 +85,9 @@ public class CoverFoxTestUsingTestNG extends Base1 {
           Logger.info("Validating CoverFoxPlan");
           Assert.assertEquals(planNumberFromText, planNumberFromCards,"Test case failed, number are not matching");
           Reporter.log("Plan number are matching TC is passed", true);
-          Utility1.takeScreenshot(driver, "validateCoverFoxPlans");       	
+          Utility1.takeScreenshot(driver, "validateCoverFoxPlans");  
+          System.out.println("Project run successfullly");
+          System.out.println("Next");
           	}
   @AfterClass
   public void closeBrowser() throws InterruptedException
